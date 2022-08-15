@@ -56,3 +56,8 @@ Kelas B = 128-191
 Kelas C = 192-223
 Kelas D = 224-239
 Kelas E = 240-255
+fungsi IP address adalah sebagai media
+ komunikasi bagi suatu perangkat agar
+ permintaan untuknya diarahkan ke tujuan yang
+ tepat melalui jaringan.
+
