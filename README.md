@@ -1,63 +1,97 @@
-#Konsep IP Address
-▪ Alamat adalah alat agar “paket” mencapai 
-tujuan
-▪ Setiap host yang terhubung jaringan butuh IP 
-Address
-▪ IP Address disusun berdasarkan nomor unik
-▪ Kesimpulan : IP Address adalah nomor-nomor 
-unik yang diberikan pada host yang 
-terhubung jaringan agar dapat saling 
-berkomunikasi.
+Desain grafis adalah proses untuk membuat sebuah objek sebagai media untuk menyampaikan informasi secara efektif
 
-Jenis-Jenis IP Address
-▪ IP Address Versi 4
-▪ IP Address Versi 6
+Fungsi desain grafis = produk media informasi dan komunikasi,produk media pemasaran atau promosi,untuk mengapresiasikan seni dan kreativitas,menjadikan hobi sebagai suatu pekerjaan, dan menambah nilai keindahan dan nilai estetika
 
-IP Address Versi 4
-▪ Berbasis 32 bit yang di bagi dalam 4 ruas yg 
-dipisahkan dengan tanda titik (.) sehingga 
-setiap ruas mendapatkan masing-masing 8 
-bit (ex : 202.10.29.254)
-▪ Tersusun atas Net id dan Host id
-▪ Menggunakan sistem pengkelasan
-▪ Memiliki subnetmask sebagai pengenal 
-jaringan
+Bidang desain grafis :
+1. Printing 
+2. web desain
+3. Film  
+4. Environtment graphic design dan identifikasi logo
+5. Desain produk
 
-Bit (Binary Digital)
-▪ Merupakan bilangan yang hanya terdiri dari 
-dua angka,yaitu 0 dan 1
-▪ Mesin hanya mengerti bit sebagai perintah
-▪ Butuh penerjemahan ke dalam bahasa 
-manusia sehingga dapat dimengerti.
+Jeniss desain grafis :
+1. Art director
+2. Animator
+3. Drafter
+4. Editor
+5. Fotografer
+6. Video editor
+7. Layouter
+8. Visualisator
+9. Integrated desainer
 
-Net id dan Host id
-▪ Net id adalah bagian yang menunjukan 
-alamat jaringan dari sebuah host
-▪ Host id adalah bagian yang menunjukan identitas dari host
+Program pengolah grafis :
+1. Aplikasi pengolah tata letak (Layout)
+2. Aplikasi pengolah vektor/garis
+3. Aplikasi pengolah pixel/gambar
+4. Aplikasi pengolah film/video
+5. Aplikasi pengolah multimedia
 
-Kenapa menggunakan kelas?
-▪ Membaca bit biner terlalu sulit
-▪ Alamat IP suatu host dibaca 8 bit demi 8 bit 
-dan setiap 8 bit tersebut dikonversi ke 
-desimal
+Unsur² desain grafis :
+1. Garis 
+Garis merupakan kumpulan titik yang membentuk jalur dari gerakan titik yang dicatat secara grafis
+2. Bentuk/bidang(shape)
+Dua bentuk dimensi : geometris,natural,abstrak
+Sifat² bentuk :
+A. Huruf
+B. Simbol
+C. Bentuk nyata(form)
 
-Contoh Penulisan IP Address
-▪ 27.211.92.51 -> Kelas A
-▪ 191.36.201.15 -> Kelas B
-▪ 200.60.168.2o -> Kelas C
+3. Tekstur
+4. Ruang/Jarak (space)
+5. Warna 
+6. Ukuran
+7. Gelap terang
+8. Tipografi
+Tipografi adalah seni memilih dan menata huruf
 
-Subnetmask
-▪ Class A -> 255.0.0.0
-◼ Class B -> 255.255.0.0
-◼ Class C -> 255.255.255.0
+A. Jenis² tipografi :
+1. Roman
+2. Egyptian
+3. Sans serif
+4. Script
+5. Miscellaneous
 
-Kelas A = 1-126
-Kelas B = 128-191
-Kelas C = 192-223
-Kelas D = 224-239
-Kelas E = 240-255
-fungsi IP address adalah sebagai media
- komunikasi bagi suatu perangkat agar
- permintaan untuknya diarahkan ke tujuan yang
- tepat melalui jaringan.
+B. Manfaat tipografi :
+1. Memudahkan dalam penyampaian pesan dan mengungkap rasa
+2. Tipografi yang baik akan membuat nyaman pembaca
+3. Menciptakan keindahan
 
+C. bagian² tipografi
+1. Judul
+2. Subjudul
+3. Naskah
+4. Logotipe
+
+Komponen warna
+
+1. Fungsi warna
+A. Fungsi identitas
+B. Fungsi psikologis
+C. Fungsi pembentuk keindahan
+D. Fungsi isyarat dan komunikasi
+E. Fungsi alamiah
+
+2. Sistem warna
+Terdiri dari :
+1. Primer = warna yg tidak dapat diperoleh dari campuran warna manapun
+Contoh : merah kuning biru
+2. Sekunder = campuran warna primer
+Contoh = oranye (merah dan kuning)
+3. Tersier= merupakan campuran warna primer dengan sekunder disebelahnya denga  perbandingan yang sama
+
+3. CMYK color system
+Cyan,magenta,yellowdan black
+Hasil lebih optimal dibandingkan rgb ,jumlah warna yg dihasilkan lebih beragam sehingga dapat menghasilkan gambar yg relatif sempurna
+Byk dimanfaatkan di dalam media cetak : undangan,brosur,banner,baliho,spanduk
+
+4. RGB color system
+Red green blue
+Warna yg ditampilkan selalu terang dan menyenangkan
+
+Rangkuman :
+1. Sistem warna yang digunakan pada mesin cetak adalah substractivr color system CMYK atau process color system
+
+2. Desain grafis adalah penyampaian gagasan atau ide seseorang melalui sarana media bergambar,bersifat statiis atau dinamis
+
+3. Syarat desain grafis : dapat memberikan interaksi berupa komunikasi antar desainer dan pembaca
