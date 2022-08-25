@@ -1,5 +1,7 @@
   1. Sejarah Menurut Herodotus dan Sartono kartodirjo :
-    - Herodotus : Sejarah bukan berkembang dan bergerak lurus ke depan dengan tujuan pasti, melainkan melingkar, yang tinggi rendahnya disebabkan oleh keadaan        manusia.
+  
+    - Herodotus : Sejarah bukan berkembang dan bergerak lurus ke depan dengan tujuan pasti, 
+    melainkan melingkar, yang tinggi rendahnya disebabkan oleh keadaan manusia.
     
     - Sartono kartodirjo : Sejarah dibatasi oleh dua hal, sejarah dalam arti objektif dan subjektif. 
     Secara objektif, menunjuk pada peristiwa atau kejadian itu sendiri. 
@@ -14,5 +16,5 @@
     
   3. Manfaat mempelajari sejarah
      - agar dapat menggunakan masa lalu sebagai acuan untuk lebih baik di masa depan dengan tidak melakukan kesalahan yg sama di masa kini.
-     - 
+   
   4. Manusia ruang tempat waktu dari pengalaman pribadi
