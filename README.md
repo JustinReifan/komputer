@@ -8,6 +8,7 @@
     Secara subjektif, sejarah yang telah ditulis sejarawan.
     
   2. Pengertian Diakronik,Kronologis,Sinkronik
+  
     - Diakronik adalah sesuatu yang dapat melintas, melalui, atau melampaui dalam batasan waktu.
     
     - Kronologis adalah susunan peristiwa sejarah sesuai urutannya.
