@@ -1,10 +1,17 @@
 Algoritma adalah hasil pemikiran konseptual agar dapat dilaksanakan oleh komputer dan diterjemahkan ke dalam notasi bahasa pemrograman.
+
 Program adalah perwujudan atau implementasi teknis algoritma yang ditulis dalam bahasa pemrograman tertentu sehingga dapat dilaksanakan oleh komputer.
+
 Pemrograman adalah kegiatan membuat program
+
 Pemrogram (programmer) adalah orang yang menulis program.
+
 Tujuan algoritma adalah memberikan petunjuk tentang langkah-langkah logika penyelsaian masalah dalam bentuk yang mudah dipahami nalar manusia sebagai acuan yang membantu dalam mengembangkan program komputer.
+
 Logika berasal dari bahasa yunani, yaitu Logos yang berarti ilmu.
+
 Algoritma berasal dari nama seorang ilmuwan Arab yang bernama Abu Jafar Mohammed Ibnu Musa Al Khawarizmi.
+
 Algoritma dapat diartikan sebagai urutan penyelesaian masalah
 yang disusun secara sistematis menggunakan bahasa yg logis untuk memecahkan suatu permasalahan.
 
