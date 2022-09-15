@@ -83,9 +83,10 @@ Konsep IP Address :
 
 Bit (Binari Digital) -> 11110010
 Pengkelasan -> 216.108.29.254
-DNS (Domain Name System) -> www.facebook.com
+DNS (Domain Name System)
 
-============MEDIA TRANSMISI=============
+==========MEDIA TRANSMISI==========
+Media Transmisi :
 Jaringan membutuhkan penghubung
 Fisik atau Wireless
 Kecepatan
@@ -93,16 +94,16 @@ Biaya
 Berdasarkan topologi yg digunakan
 Media transmisi adalah jalur – jalur penghubung yang menghubungkan satu host dengan host lainnya sehingga terbentuk sebuah jaringan.
 
-Jenis-Jenis Media Transmisi
+Jenis-Jenis Media Transmisi :
 Fisik
 Wireless
 
-Media Transmisi Fisik
+Media Transmisi Fisik :
 UTP / STP Cable
 Coaxial Cable
 Fiber Optik
 
-UTP / STP Cable
+UTP / STP Cable :
 Unshielded  / ShieldedTwisted Pair
 8 warna kabel
 10baseT -> 10 – 100 Mbits
