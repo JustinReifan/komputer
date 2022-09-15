@@ -113,7 +113,7 @@ Commonly used
 Cheap & High Quality
 Physical Layer
 
-Coaxial Cable
+Coaxial Cable :
 Kabel Antena
 Tipe Thick / Thin
 10base2-> 100 - 1000 Mbits
@@ -122,14 +122,14 @@ Not commonly used
 Expensive at terminator
 High Quality & Speed
 
-Fiber Optik
+Fiber Optik :
 Kabel Serat Fiber
 10baseX-> Up to 3 Gbits
 Commonly used by Company
 Expensive
 High Speed
 
-Media Transmisi Wireless
+Media Transmisi Wireless :
 Electromagnetic Wave
 Radio Signal
 GSM
@@ -145,7 +145,7 @@ PH – B		PH – B
 PB – H		PB – H	
 PC – C		PC – C
 
-Tipe Crossover
+Tipe Crossover :
 Menghubungkan device / komponen yang sama (ex : host dan host)
 Susunan =
 PO – O	PH – H	
@@ -154,6 +154,7 @@ PB – H		PB – O
 PC – C		PC – C
 
 ==============IP ADDRESS===============
+
 Konsep IP Address
 
 Alamat adalah alat agar “paket” mencapai
