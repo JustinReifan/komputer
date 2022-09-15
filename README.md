@@ -16,17 +16,12 @@ tersebut dapat berkomunikasi.
 Jenis-Jenis Jaringan
 Komputer :
 - Personal Area Network (jaringan komunikasi satu perangkat dengan yg lain dalam jarak dekat)
-
--- Local Area Network (sejumlah komputer yg saling dihubungkan bersama dalam area yg tidak begitu luas,sperti ruang/gedung. luas 10-1000 meter)
-
--- Metropolitan Area Network (Mengjangkau antar wilayah dalam satu kota/provinsi, jarak 10k-100k meter
-
--- Wide Area Network (mencakup area yg luas dan mampu mengjangkau negara lain,jarak 100km-100.000 km)
-
+- Local Area Network (sejumlah komputer yg saling dihubungkan bersama dalam area yg tidak begitu luas,sperti ruang/gedung. luas 10-1000 meter)
+- Metropolitan Area Network (Mengjangkau antar wilayah dalam satu kota/provinsi, jarak 10k-100k meter
+- Wide Area Network (mencakup area yg luas dan mampu mengjangkau negara lain,jarak 100km-100.000 km)
 - Global Area Network (skala besar WAN, di implementasikan secara global/mendunia, dapat mengjangkau benua lain)
-
--- Internet
--- Wireless
+- Internet
+- Wireless
 
 Topologi Jaringan Komputer
 
