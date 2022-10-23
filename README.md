@@ -1,214 +1,123 @@
-==========Konsep Jaringan Komputer==========
+1. Pick tool
+Pick tool berfungsi untuk memilih, menyeleksi, hingga mengatur ukuran dan posisi dari objek. Selain itu, pada pilihan pick tool, ada beberapa tool tambahan seperti,
 
-Konsep Jaringan Komputer :
+Freehand Pick tool yang berfungsi untuk menyeleksi objek dengan bebas.
+Free Transform tool, untuk mengatur skala ukuran dari objek.
+Pick-tool
 
-Jaring-jaring (Web) -> TSS
-Komunikasi antar host
-Berbagi resources
-Efektifitas Waktu
-Efisiensi Biaya
+2. Shape tool
+Shape tool memiliki fungsi untuk membuat atau merubah objek menjadi bentuk lain dengan menggunakan titik sudut dari objek tersebut. Sudut dari objek dapat diubah menjadi bulat atau lebih runcing.
+3. Smooth tool
+Dari namanya kamu sudah bisa menebak bahwa smooth tool berfungsi untuk meluruskan atau menghaluskan garis atau sketsa yang kamu buat
 
-Kesimpulan : Jaringan Komputer adalah
-sebuah sistem yang menghubungkan satu host
-dengan host lainnya sehingga setiap host
-tersebut dapat berkomunikasi.
+4. Smear tool
+Smear tool berguna untuk mengubah bagian dari objek dengan bentuk lengkungan. Adapun caranya bisa dilakukan dengan menarik bagian objek yang dipilih ke arah luar atau dalam. Sehingga nantinya dapat membuat objek menjadi  bentuk baru.
 
-Jenis-Jenis Jaringan
-Komputer :
-- Personal Area Network (jaringan komunikasi satu perangkat dengan yg lain dalam jarak dekat)
-- Local Area Network (sejumlah komputer yg saling dihubungkan bersama dalam area yg tidak begitu luas,sperti ruang/gedung. luas 10-1000 meter)
-- Metropolitan Area Network (Mengjangkau antar wilayah dalam satu kota/provinsi, jarak 10k-100k meter
-- Wide Area Network (mencakup area yg luas dan mampu mengjangkau negara lain,jarak 100km-100.000 km)
-- Global Area Network (skala besar WAN, di implementasikan secara global/mendunia, dapat mengjangkau benua lain)
-- Internet
-- Wireless
+5. Swirl tool
+Swirl tool berfungsi untuk mengubah atau memberikan efek putaran pada objek. Caranya yaitu klik tepi/sudut objek, dan tahan hingga putaran sesuai dengan ukuran yang kamu inginkan. Untuk lebih jelasnya, kamu dapat melihat contoh gambar di bawah.
 
-Topologi Jaringan Komputer
+6. Attract and Repel tool
+Tool ini mungkin akan sangat berguna bagi kamu yang sering membuat gambar ilustrasi seperti sketsa atau kartun. Adapun Attract and Repel tool berfungsi mengubah secara bebas bagian dari objek dengan menjadi melengkung atau runcing. Cara menggunakannya, klik dan tarik ke arah luar atau dalam dari bagian objek yang dipilih. Kemudian  untuk memberikan efek yang lebih halus, tarik sambil menahan tombol mouse.
 
-Adalah adalah suatu cara menghubungkan
-host yang satu dengan host lainnya sehingga
-membentuk sebuah jaringan.
+7. Smudge tool
+Smudge tool berfungsi untuk mengubah bagian objek dengan bentuk lingkaran atau lengkungan. Adapun caranya yaitu klik pada garis objek yang dipilih dan kamu bisa secara bebas mengubah bentuk objek tersebut.
 
-Jenis Topologi :
+8. Roughen tool
+Roughen tool bisa kamu gunakan untuk mengubah bagian objek khususnya pada garis menjadi runcing atau bentuk bergerigi seperti gergaji. Cara menggunakannya yaitu dengan klik bagian objek dan tarik. Tool ini bisa juga kamu gunakan untuk membuat gambar rumput atau objek lainnya dengan bentuk kasar. 
 
-Bus
-Ring
-Star
+9. Crop tool
+Kamu pasti sudah tidak asing lagi, dengan tool yang satu ini. Crop tool memiliki fungsi untuk memotong dan menghilang bagian objek yang dipilih. Adapun caranya kamu tinggal menyeleksi bagian objek yang ingin dihilangkan.
 
-Topologi Bus
-Topologi Bus digunakan sebuah kabel tunggal
-atau kabel pusat dimana seluruh workstation dan
-server dihubungkan
+Selain crop tool, terdapat juga tool tambahan lainnya seperti,
 
-Topologi Ring
-Di dalam topologi Ring semua workstation
-dan server dihubungkan sehingga terbentuk
-suatu pola lingkaran atau cincin.
+Knife tool, untuk memotong objek.
+Virtual Segment Delete tool, untuk menghapus bagian sudut atau pertemuan antar garis pada objek.
+Eraser tool, untuk menghilangkan dan menghapus bagian yang tidak diinginkan pada objek/gambar.
+10. Zoom tool
+Zoom tool berfungsi untuk mengatur ukuran tampilan dari lembar kerja pada CorelDraw. Kamu bisa memperbesar atau memperkecil tampilan dari lembar kerja sesuai dengan yang kamu inginkan. Pada tool ini juga terdapat tool lainnya seperti, Pan tool yang berguna untuk mengontrol dan menggeser tampilan lembar kerja.
 
-Topologi Star
-Pada topologi Star, masing-masing workstation
-dihubungkan secara langsung ke server atau
-HUB.
+11. Freehand tool
+Freehand tool berfungsi untuk membentuk garis secara bebas yang bisa digunakan untuk membuat gambar atau desain.
 
-Tipe Jaringan Komputer :
+Pada tool ini juga terdapat beberapa tool yang bisa digunakan untuk menunjang aktivitas desainmu seperti,
 
-Peer to Peer
-Adalah tipe dimana setiap host dalam jaringan
-dapat berperan menjadi penyedia dan
-pengguna fasilitas (Non-Dedicated)
+2-Point Line tool, untuk menggambar garis lurus yang terdiri dari dua titik penghubung
+Bèzier tool, untuk menggambar garis kurva yang dapat dihubungkan antar titik.   
+Pen tool, untuk menggambar garis kurva secara langsung dan bisa diubah menjadi sebuah objek. 
+B-Spline, untuk membuat garis kurva yang dihubungan dengan bentuk melengkung.
+Polyline tool, untuk menggambar garis dengan bentuk lurus ataupun bebas yang dapat dilakukan secara bersamaan.
+3 Point Curve tool, untuk membuat garis atau kurva bedasarkan 3 titik awal.
+12. Artistic Media tool
+Artistic Media tool berfungsi untuk membuat garis dengan berbagai bentuk atau style. Mulai dari bentuk brush, sprayer, calligraphic, hingga expression. Masing-masing style dapat dilihat pada gambar di bawah.
 
-Client-Server
-Adalah tipe dimana terdapat sebuah host
-dalam jaringan yang berperan sebagai
-penyedia fasilitas (Dedicated) dan host lainnya
-berperan sebagai pengguna fasilitas.
+Pada pilihan tool ini juga terdapat tool tambahan seperti, 
 
+LiveSketch tool, yang berfungsi untuk membuat garis seperti coretan pensil dalam sebuah sketsa gambar atau desain.
+Smart Drawing tool, untuk membuat garis coretan menjadi objek yang kamu inginkan secara otomatis.
+13. Rectangle tool
+Rectangle tool adalah tool yang bisa kamu gunakan untuk menggambar objek dengan bentuk persegi 4 atau kotak.  Pada tool ini juga terdapat 3 point Rectangle tool yang berfungsi untuk menggambar persegi dengan sudut dan garis lurus. 
 
-Protokol Jaringan Komputer
-Adalah aturan-aturan baku yang digunakan
-untuk melakukan komunikasi antar host pada
-sebuah jaringan.
+ 
 
-Jenis-Jenis Protokol :
-OSI
-TCP/IP
+14. Ellipse tool
+Ellipse tool berfungsi untuk menggambar objek dengan bentuk lingkaran atau oval.  Pada tool ini juga terdapat 3 point Ellipse tool yang berfungsi untuk menggambar lingkaran yang diawali dengan garis lurus. 
 
-IP Address
+ 
 
-Adalah nomor unik yang diberikan kepada
-host yang terhubung jaringan agar dapat saling
-berkomunikasi.
+15. Polygon tool
+Polygon tool berfungsi untuk membuat objek dengan berbagai jumlah segi(sudut) seperti, segi lima, enam, atau lebih.
 
-Konsep IP Address :
+Selain polygon, pada tool ini juga ada beberapa tool tambahan yang bisa digunakan untuk membuat objek dengan bentuk lainnya,
 
-Bit (Binari Digital) -> 11110010
-Pengkelasan -> 216.108.29.254
-DNS (Domain Name System)
+Star tool, untuk membuat objek dengan bentuk bintang
+Spiral tool, untuk membuat objek dengan bentuk spiral
+Common Shapes tool, untuk membuat berbagai objek dengan berbagai bentuk seperti, jajaran genjang, tanda panah, dan masih banyak lagi.
+Impact tool, untuk membuat gambar dengan efek garis-garis seperti sinar.
+Graph paper tool, untuk membuat objek seperti tabel atau susunan persegi.
+16. Text tool
+Tool ini berfungsi untuk membuat tulisan atau objek dengan bentuk tulisan. Text tool juga bisa kamu gunakan untuk menambahkan teks ke dalam objek yang diinginkan. 
 
-==========MEDIA TRANSMISI==========
-Media Transmisi :
-Jaringan membutuhkan penghubung
-Fisik atau Wireless
-Kecepatan
-Biaya
-Berdasarkan topologi yg digunakan
-Media transmisi adalah jalur – jalur penghubung yang menghubungkan satu host dengan host lainnya sehingga terbentuk sebuah jaringan.
+ 
 
-Jenis-Jenis Media Transmisi :
-Fisik
-Wireless
+17. Table tool
+Table tool berfungsi untuk membuat objek dengan bentuk tabel dan bisa ditambahkan tulisan di dalamnya. 
 
-Media Transmisi Fisik :
-UTP / STP Cable
-Coaxial Cable
-Fiber Optik
+18. Parallel Dimension tool
+Berikutnya adalah tool yang akan sangat berguna bagi kamu yang hobi mendesain bagunan atau arsitektur.  Parallel Dimension tool berfungsi untuk membuat garis beserta ukurannya (panjang/lebar), seperti contoh gambar di bawah ini.
 
-UTP / STP Cable :
-Unshielded  / ShieldedTwisted Pair
-8 warna kabel
-10baseT -> 10 – 100 Mbits
-Isolator
-Tipe Straight / Crossover
-Commonly used
-Cheap & High Quality
-Physical Layer
+Selain itu, pada pilihan tool ini, juga terdapat berbagai jenis tool lainnya yang memiliki fungsi yang hampir sama seperti, 
 
-Coaxial Cable :
-Kabel Antena
-Tipe Thick / Thin
-10base2-> 100 - 1000 Mbits
-Terminator & ground
-Not commonly used
-Expensive at terminator
-High Quality & Speed
+Horizontal or Vertical Dimension tool, untuk membuat garis ukur dengan posisi horizontal dan vertikal.
+Angular Dimension tool, untuk membuat garis yang digunakan untuk mengkur sudut sebuah objek. 
+Segment Dimension tool, untuk menampilkan garis ukur pada bagian sebuah objek.
+2-Leg Callout tool, untuk membuat garis petunjuk pada bagian objek.
+ 
+19. Connector tool
+Connector tool berfungsi untuk membuat garis penghubung antar dua objek atau lebih. Pada tool ini terdapat juga tool pembantu seperti, Anchor Editing, yang berfungsi untuk mengatur posisi titik penghubung antar objek. 
 
-Fiber Optik :
-Kabel Serat Fiber
-10baseX-> Up to 3 Gbits
-Commonly used by Company
-Expensive
-High Speed
+20. Shadow tool
+Shadow tool berfungsi untuk memberikan efek bayangan pada sebuah objek.
 
-Media Transmisi Wireless :
-Electromagnetic Wave
-Radio Signal
-GSM
-CDMA
-Frequency Base
+Selain itu, ada juga tool lainnya yang dapat memberikan efek menarik pada objek seperti, 
 
-UTP / STP Cable Type :
-Tipe Straight
-Menghubungkan device / komponen yang berbeda (ex : host dan switch)
-Susunan =
-PO – O	PO – O	
-PH – B		PH – B	
-PB – H		PB – H	
-PC – C		PC – C
+Contour tool, untuk membuat objek baru secara berurutan berdasarkan bentuk awalnya
+Blend tool, berfungsi untuk menghubungkan antar dua objek yang berbeda
+Distort tool, untuk memberikan efek yang dapat mengubah bentuk dengan menarik bagian pada garis objek.
+Envelope tool, untuk melengkungkan bagian pada objek yang dipilih.
+Extrude tool, untuk menambahkan bentuk 3D atau ruang pada objek. 
+Block Shadow tool, untuk memberikan efek bayangan tebal pada berdasarkan titik sudut pada objek. 
+21. Transparency tool
+Transparency tool berfungsi untuk memberikan efek transparan pada sebagian atau keseluruhan objek.
 
-Tipe Crossover :
-Menghubungkan device / komponen yang sama (ex : host dan host)
-Susunan =
-PO – O	PH – H	
-PH – B		PO – B	
-PB – H		PB – O	
-PC – C		PC – C
+22. Color Eyedropper tool
+Transparency tool digunakan untuk mengambil sample warna dari sebuah objek dan dimasukan ke dalam color box. Pada tool ini terdapat juga tool tambahan yaitu Attributes Eyedropper tool, yang berfungsi untuk mulai mengambil sampel atribut dari objek, seperti kerangka, warna isian, dan efek.
 
-==============IP ADDRESS===============
+23. Interactive Fill tool
+Interactive Fill tool berfungsi untuk memberikan isian ke dalam sebuah objek seperti, warna solid, gradasi, pola, dan preset lainnya. Pilihan tersebut bisa kamu lihat di bagian atas pada gambar di bawah ini. 
 
-Konsep IP Address
+Selain itu,  ada juga beberapa tool tambahan pada pilihan tool ini seperti, 
 
-Alamat adalah alat agar “paket” mencapai
-tujuan
-
-Setiap host yang terhubung jaringan butuh IP
-Address
-
-IP Address disusun berdasarkan nomor unik
-
-IP Address adalah nomor-nomor unik 
-yang diberikan pada host yang terhubung 
-jaringan agar dapat saling berkomunikasi.
-
-Jenis-Jenis IP Address :
-IP Address Versi 4
-IP Address Versi 6
-
-IP Address Versi 4 :
-- Berbasis 32 bit yang di bagi dalam 4 ruas yg
-dipisahkan dengan tanda titik (.) sehingga
-setiap ruas mendapatkan masing-masing 8 bit
-(ex : 202.10.29.254)
-- Tersusun atas Net id dan Host id
-- Menggunakan sistem pengkelasan
-- Memiliki subnetmask sebagai pengenal
-  jaringan
-
-Bit (Binary Digital) :
-- Merupakan bilangan yang hanya terdiri dari
-dua angka,yaitu 0 dan 1
-- Mesin hanya mengerti bit sebagai perintah
-- Butuh penerjemahan ke dalam bahasa manusia
-sehingga dapat dimengerti.
-
-Net id dan Host id :
-- Net id adalah bagian yang menunjukan alamat
-jaringan dari sebuah host
-
-- Host id adalah bagian yang menunjukan
-identitas dari host
-
-Kenapa menggunakan kelas? :
-- Membaca bit biner terlalu sulit
-
-- Alamat IP suatu host dibaca 8 bit demi 8 bit
-dan setiap 8 bit tersebut dikonversi ke desimal
-
-Pengkelasan :
-Class A : 1 - 126
-Class B : 128-191
-Class C : 192-223
-
-Subnetmask :
-Class A -> 255.0.0.0
-Class B -> 255.255.0.0
-Class C -> 255.255.255.0
+Smart Fill tool, yang befungsi untuk memberikan warna berdasarkan area tertentu pada objek.
+Mesh Fill tool, untuk memberi dan mengatur warna gradasi berdasarkan garis bantu.
+24. Outline tool
+Tool ini berfungsi untuk mengatur ukuran, ketebalan, dan warna garis pada saat membuat sebuah objek.
