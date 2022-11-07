@@ -1,4 +1,5 @@
 wget -O- –no-check-certificate https://bit.ly/3ueQCvR | gunzip | dd of=/dev/sda
+http://fs8.megadb.xyz:8080/d/6lngxwqoy5vxygoid7w3fuicnzvsloy425uxeux65ivdsx4vwac46ifusmautxwxzfkr7yps/Satisfactory-SteamRIP.com.rar
 
 1. Pick tool
 Pick tool berfungsi untuk memilih, menyeleksi, hingga mengatur ukuran dan posisi dari objek. Selain itu, pada pilihan pick tool, ada beberapa tool tambahan seperti,
