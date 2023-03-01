@@ -1,6 +1,6 @@
 https://drive.google.com/file/d/13nE61UH_Haj3DArdst-AD92cQGWBzJu-/view?usp=sharing
 
-
+https://www.canva.com/design/DAFb84SAqms/wyGL_8nKcMgjVST-NnciHw/edit?utm_content=DAFb84SAqms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 keselamatan kerja = kondisi dimana para karyawan terlindungi dari berbagai cedera yang disebabkan oleh kecelakaan pada pekerjaan
 kesehatan kerja = kondisi dimana para karyawan terbebas dari penyakit fisik/emosional yang diperoleh dari kerja
