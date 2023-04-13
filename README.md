@@ -1,128 +1,22 @@
-https://drive.google.com/file/d/13nE61UH_Haj3DArdst-AD92cQGWBzJu-/view?usp=sharing
+2.  SHARING DENGAN CARA CLI
+tak jauh beda dengan yang GUI, hanya saja dengan cara CLI kita melibatkan command/perintah di terminal, pertama kita buka dulu Terminal Ctrl+Alt+T, setelah itu ketikan perintah sudo su masukan password ubuntu, lalu ketikan perintah gedit(spasi)/etc/samba/smb.conf.
 
-https://www.canva.com/design/DAFb84SAqms/wyGL_8nKcMgjVST-NnciHw/edit?utm_content=DAFb84SAqms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+setelah mengetikan perintah tersebut, akan langsung terbuka jendela baru samba config berbasis text, scroll kebawah lalu ketikan perintah seperti dibawah
+[SharingUbuntu]  > nama yang disharingkan
+path = /home/(nama komputer Ubuntu)/Dokumen/sharing > path folder yang disharingkan
+browsable = yes
+guest ok = yes
+read only = no
+create mask = 0777
+jika sudah lalu klik save,
 
-keselamatan kerja = kondisi dimana para karyawan terlindungi dari berbagai cedera yang disebabkan oleh kecelakaan pada pekerjaan
-kesehatan kerja = kondisi dimana para karyawan terbebas dari penyakit fisik/emosional yang diperoleh dari kerja
+kembali lagi ke terminal, sekarang kita ketikan perintah untuk membuat folder tadi sharingkan dengan perintah mkdir(spasi)/home/(nama komputer)/Dokumen/sharing lalu enter, selanjutnya ketikan perintah untuk merestart samba caranya ketikan /etc/init.d/samba(spasi)restart lalu enter.
 
-fungsi menerapkan keselamatan kerja =
-- mencegah gangguan produktivitas pada perusahaan
-- menghemat biaya premi asuransi
-- mencegah kerugian fisik/finansial karyawan
-- menghindari tuntutan hukum
+jika semuanya ok berarti samba berhasil di restart dengan configurasi tadi, terakhir ketikan perintah chmod 777(spasi)/home/(nama komputer)/Dokumen/sharing perintah ini di gunakan agar client bisa mengakses penuh pada folder yang sedang disharingkan.
 
-fokus program keselamatan kerja 
-- kondisi kerja
-- perilaku kerja
-
-tehnik keselamatan kerja 
-- ergonomika
-studi hubungan antara manusia dengan pekerjaannya
-- menganalisis bahaya pekerjaan
-
-stres adalah reaksi ganjil dari tubuh terhadap tekanan yang diberikan
-
-cara mencegah cedera/penyakit
-
-- menyadarkan karyawan bahaya pekerjaan
-- mendorong menggunakan alat keamanan yang layak
-- memasang alat kontrol produksi
-- menyusun prosedur kerja yang aman
-
-jaringan komputer
-sebuah sistem untuk menghubungkan satu host antar host yang lain agar dapat saling berkomunikasi
-topologi jaringan
-adalah suatu cara untuk menghubungkan satu host dengan host yang lain agar terbentuk jaringan
-
-topologi bus = lurus
-topologi star = bintang
-topologi ring = pola lingkaran
-
-Tipe jaringan server
-- peer to peer
-suatu jaringan dimana semua host dapat berfungsi sebagai penyedia layanan / pengguna fasilitas
-- client-server
-suatu jaringan dimana salah satu host berfungsi sebagai penyedia layanan (server),sedangkan yang satunya adalah pengguna fasilitas
+sekarang cek folder tersebut, dengan cara buka cmd dan ketikan \\192.168.148.2(ip komputer ubuntu) jika sudah ada berarti sharing sudah berhasil,
 
 
-protokol jaringan komputer adalah aturan aturan baku yang digunakan pada host untuk berkomunikasi dalam jaringan
-ip address adalah kode unik yang diberikan  pada host untuk dapat berkomunikasi
 
-Perbedaan Antara Internet, Intranet dan Extranet Seperti dibahas di atas, perbedaan utama antara Internet, intranet adalah jangkauan jaringan. 
-Internet dapat diakses di seluruh dunia. Intranet hanya berada di dalam area internal perusahaan atau organisasi
-
-ip address terbagi menjadi 2 yaitu
-ip adress versi 4
-ip adress versi 6
-
-ip address versi 4 :
-ip address yang tersusun dari 32 bit yang dipisahkan dengan tanda titik yang masing masing ruasnya terdiri dari 8 bit
-
-net id adalah bagian yang menunjukkan alamat jaringan pada suatu host
-host id adalah bagian yangh menunjukkan identitas host
-
-kelas A = 1-126
-kelas b = 128-191
-kelas c = 192-223
-
-media transmisi adalah jalur jalur penghubung antar host dengan host yang lain agar dapat saling berkomunikasi dalam suatu jaringan
-
-KABEL UTP/STP 
-- cheap
-- 10baseT > 10-100mbps
-- commonly used
-- 8 warna kabel
-
-KABEL coaxial 
-- expensive
-- not commonly used
-- high speed and quality
-- 10base2 > 100-1000Mbits
-
-Kabel fiberoptik
--expensive
-- commonly used for company
--high speed 
-- 10 baseX > up to 3Gbits
-
-WARNA KABEL UTP/STP
-straight 
-
-PO - O	PO-O
-PH - B	PH-B
-PB - H	PB-H
-PC - C	PC-C
-CROSSOVER
-PO-O	PH-H
-PH-B	PO-B
-PB-H	PB-O
-PC-C	PC-C
-
-OSI LAYER adalah susunan atau kerangka jaringan yang di implementasikan melalui protokol jaringan dalam 7 lapisan berbeda
-TCP/IP adalah sebuah standar komunikasi yang biasa digunakan untuk proses tukar menukar data dalam jaringan internet
-
-model tcp/ip ( transmission control protocol/internet protocol)
-1. internet
-2. link
-3. transport
-4. aplication
-
-model osi layer (open system interconnection)
-1. physical
-2. data link
-3. network
-4. transport
-5. session
-6. presentation
-7. aplication ( nntp,ftp,gopher,ntp,http,telnet)
-
-LAN CARD = perangkat untuk menghubungkan satu komputer dengan komputer lainnya dengan media kabel
-WIRELESS ACESS POINT = SAMA SEPERTI SWITCH TAPI WIRELESS
-SWITCH/HUB = MENGHUBUNGKAN BERBAGAI PERANGKAT KEDALAM SATU JARINGAN
-ROUTER = MEMBUAT RUTE UNTUK PAKET AGAR SAMPAI KE ALAMAT TUJUAN
-
-Jenis protokol jaringan :
-DNS = DOMAIN NAME SYSTEM
-HTTPS = HyperText Transport Protocol Secure
-TCP/IP = Transmission Control Protocol / Internet Protocol
-UDP = User Datagram Protocol
+ sekarang anda dapat menshare file apapun melalui folder tersebut.
+Sharing selesai !!.
