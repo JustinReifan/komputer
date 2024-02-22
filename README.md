@@ -1,3 +1,5 @@
+https://www.canva.com/design/DAF69Zgbz2Q/38yKDT5JNctPtr8uMbJkkw/edit
+
 2.  SHARING DENGAN CARA CLI
 tak jauh beda dengan yang GUI, hanya saja dengan cara CLI kita melibatkan command/perintah di terminal, pertama kita buka dulu Terminal Ctrl+Alt+T, setelah itu ketikan perintah sudo su masukan password ubuntu, lalu ketikan perintah gedit(spasi)/etc/samba/smb.conf.
 
