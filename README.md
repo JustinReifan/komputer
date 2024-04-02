@@ -1,8 +1,9 @@
 1. tuliskan secara terperinci langkah langkah membuat cv kreatif
 - buka coreldraw
 - buka document, tulis nama dokumen lalu klik orientation landscape lalu ok
-- buat rectangle sebesar 3/4 dengan warna hitam dan 1/4 dengan polos untuk siap ditambahkan gambar diri
+- buat rectangle sebesar 3/4 untuk konten dan 1/4 polos untuk siap ditambahkan gambar diri
 - tambahkan gambar pribadi dengan muka yang jelas & tidak blur di sisi kiri (area 1/4 nya)
+- sekarang area 3/4 tersebut diberi fill warna hitam dan siap di isi dengan konten
 - buat judul untuk nama dengan font arial & font weight bold
 - buat subjudul dengan font yang sama di bawah judul untuk menjelaskan profesi
 - buat tempat tanggal lahir di bawah kanan judul
