@@ -1,24 +1,26 @@
-https://www.canva.com/design/DAF69Zgbz2Q/38yKDT5JNctPtr8uMbJkkw/edit
+1. tuliskan secara terperinci langkah langkah membuat cv kreatif
+- buka coreldraw
+- buka document, tulis nama dokumen lalu klik orientation landscape lalu ok
+- buat rectangle sebesar 3/4 dengan warna hitam dan 1/4 dengan polos untuk siap ditambahkan gambar diri
+- buat judul untuk nama dengan font arial & font weight bold
+- buat subjudul dengan font yang sama di bawah judul untuk menjelaskan profesi
+- buat tempat tanggal lahir di bawah kanan judul
+- buat rectangle bewarna putih dibawah profesi, fill putih & outline none
+- buat tulisan about me diatas rectangle barusan.
+- tuliskan deskripsi about me dengan font yang sama dan dengan warna putih
+- buat rectangle yang sama dengan fill putih dan tuliskan "SOFTWARE SKILLS" diatasnya
+- tambahkan logo dari software yang di kuasai.
+- tambahkan rectangle dengan fill putih lagi yang bertuliskan "personal interest" bewarna hitam dibawah logo tadi
+- tambahkan teks berupa hobi hobi & ketertarikan pribadi dengan font yang sama & warna putih dibawahn rectangle tadi.
+- tambahkan rectangle fill putih lagi dengan tulisan "SOCIAL MEDIA" bewarna putih diatasnya & buat lagi rectangle di sebelahnya dengan fill none dan outline putih dengan ketebalan 1.0 pt. tambahkan tulisan "CONTACT PERSON" diatas rectangle tersebut dan beri warna putih kepada teks tersebut.
+- tambahkan kontak pribadi berupa whatsapp/gmail/instagram/nomor telepon
+- buat rectangle ukuran kecil bewarna bebas di tengah tengah antara gambar dan bagian untuk teks
+- terakhir, tambahkan rectangle dan klik transparency tools kemudian klik fountain transparancy diatas kiri , kemudian klik elliptical fountain transparency untuk membuat transparan dalam bentuk elipse/oval. kemudian tekan shift dan klik lalu tahan mouse di area rectangle untuk membuat gradasi warna 
+- taruh rectangle gradasi tersebut diatas semua layer, sehingga gradasi tersebut dapat terlihat. untuk posisinya sendiri bisa ditaruh dipojok kanan atas & pojok kanan bawah. untuk warna gradasi bebas.
 
-2.  SHARING DENGAN CARA CLI
-tak jauh beda dengan yang GUI, hanya saja dengan cara CLI kita melibatkan command/perintah di terminal, pertama kita buka dulu Terminal Ctrl+Alt+T, setelah itu ketikan perintah sudo su masukan password ubuntu, lalu ketikan perintah gedit(spasi)/etc/samba/smb.conf.
-
-setelah mengetikan perintah tersebut, akan langsung terbuka jendela baru samba config berbasis text, scroll kebawah lalu ketikan perintah seperti dibawah
-[SharingUbuntu]  > nama yang disharingkan
-path = /home/(nama komputer Ubuntu)/Dokumen/sharing > path folder yang disharingkan
-browsable = yes
-guest ok = yes
-read only = no
-create mask = 0777
-jika sudah lalu klik save,
-
-kembali lagi ke terminal, sekarang kita ketikan perintah untuk membuat folder tadi sharingkan dengan perintah mkdir(spasi)/home/(nama komputer)/Dokumen/sharing lalu enter, selanjutnya ketikan perintah untuk merestart samba caranya ketikan /etc/init.d/samba(spasi)restart lalu enter.
-
-jika semuanya ok berarti samba berhasil di restart dengan configurasi tadi, terakhir ketikan perintah chmod 777(spasi)/home/(nama komputer)/Dokumen/sharing perintah ini di gunakan agar client bisa mengakses penuh pada folder yang sedang disharingkan.
-
-sekarang cek folder tersebut, dengan cara buka cmd dan ketikan \\192.168.148.2(ip komputer ubuntu) jika sudah ada berarti sharing sudah berhasil,
-
-
-
- sekarang anda dapat menshare file apapun melalui folder tersebut.
-Sharing selesai !!.
+2. tuliskan kesulitan dalam membuat cv kreatif
+- kesulitan menentukan ukuran tulisan yg cocok & pas
+- kesulitan membuat gradasi dengan posisi pas agar terlihat menarik
+- menambahkan deskripsi yang cenderung perlu copywriting yang menarik dalam menjelaskan & memperkenalkan diri berupa tulisan dengan baik
+- menentukan ukuran rectangle yang tidak terlalu besar namun juga tidak terlalu kecil.
+- menentukan jarak antar objek dan ruang kosong yang dibutuhkan agar desain lebih mudah dibaca.
